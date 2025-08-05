@@ -1,2 +1,2 @@
-﻿"bottomLength"= 220mm
-"topLength"= 330mm
+﻿"bottomLength"= 270mm
+"topLength"= 380mm
